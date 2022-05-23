@@ -1,0 +1,99 @@
+.container{
+    width: 75%;
+    margin: auto;
+}
+/* Header */
+
+header {
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+#logo {
+    width: 150px;
+    padding-top: 50px;
+    margin-left: 12.5%;
+}
+
+
+/* Main */
+/* Titolo. Autore e Data */
+#titolo {
+   margin: 0;
+}
+
+#autore, #data {
+    margin: 0;
+    color: #8A8A8A;
+}
+
+#autore a {
+    text-decoration: none;
+}
+
+/* Foto e Descrizione */
+
+.foto-tim {
+    margin-top: 20px;
+}
+
+.descrizione-foto {
+    margin: 0;
+    font-size: small;
+}
+
+/* Corpo Centrale */
+
+.evidenziatore {
+    background-color: #FDFD00;
+}
+
+/* Tabella */
+
+.prima-colonna, .seconda-colonna, .terza-colonna {
+    background-color: #1FA9E5;
+    color: #fff;
+}
+
+.prima-colonna, .seconda-colonna {
+    width: 25%;
+}
+
+.terza-colonna {
+    width: 50%;
+}
+
+.riga-pari {
+    background-color: #B2E4F2;
+}
+
+/* Footer */
+
+#articoli-correlati {
+    color: #8A8A8A;
+}
+
+.contenitore-foto, .contenitore-foto-2 {
+    width: 200px;
+    height: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.contenitore-foto {
+    background-image: url(../img/monitor.jpg);
+}
+
+.contenitore-foto-2 {
+    background-image: url(../img/graph.jpg);
+}
+
+.titolo-art-correlato {
+    color: #fff;
+    margin: 0;
+    padding: 10px;
+    font-size: 16px;
+}
