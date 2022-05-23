@@ -15,7 +15,7 @@ header {
 }
 
  /* Main */
-
+ /* Titolo. Autore e Data */
  #titolo {
    margin: 0;
 }
@@ -29,6 +29,8 @@ header {
     text-decoration: none;
 }
 
+/* Foto e Descrizione */
+
 .foto-tim {
     margin-top: 20px;
 }
@@ -36,4 +38,34 @@ header {
 .descrizione-foto {
     margin: 0;
     font-size: small;
+}
+
+/* Corpo Centrale */
+
+.evidenziatore {
+    background-color: #FDFD00;
+}
+
+/* Tabella */
+
+.prima-colonna, .seconda-colonna, .terza-colonna {
+    background-color: #1FA9E5;
+    color: #ffffff;
+}
+.prima-colonna, .seconda-colonna {
+    width: 25%;
+}
+
+.terza-colonna {
+    width: 50%;
+}
+
+.riga-pari {
+    background-color: #B2E4F2;
+}
+
+/* Footer */
+
+#articoli-correlati {
+    color: #8A8A8A;
 }
