@@ -1,4 +1,4 @@
-# **Esercizio Boolean - Viaggio a Londra**
+# **Esercizio Boolean - Giornale The Booleaner**
 
 * Nome: html-css-booleaner
 * Autore: Lupinu Riccardo
